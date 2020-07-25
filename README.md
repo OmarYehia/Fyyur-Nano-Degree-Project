@@ -1,5 +1,3 @@
-# Fyyur-Nano-Degree-Project
-
 Fyyur
 -----
 
